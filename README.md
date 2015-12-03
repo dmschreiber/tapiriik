@@ -3,6 +3,7 @@ tapiriik keeps your fitness in sync
 
 
 ## Looking to run tapiriik locally?
+test
 
 Check out the [setup guide on the wiki](https://github.com/cpfair/tapiriik/wiki/Running-tapiriik-locally). It's a bit more than `pip install tapiriik`, but I'm sure you can handle it.
 
